@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>351090095581-uiku083ejobsc1qptfrenaqsiqv3fcc4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.351090095581-uiku083ejobsc1qptfrenaqsiqv3fcc4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>351090095581-ofq3fdj7cb0degnaa54qr2dhb5opbi6h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjS-_7JMVpKWvdrphaymas9-fZUG05YK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>351090095581</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flowersApp</string>
+	<key>PROJECT_ID</key>
+	<string>flowerapp-89831</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flowerapp-89831.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:351090095581:ios:c106b7613d482fba</string>
+	<key>DATABASE_URL</key>
+	<string>https://flowerapp-89831.firebaseio.com</string>
+</dict>
+</plist>
